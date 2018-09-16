@@ -25,7 +25,6 @@ If you would like add something, just send the text as you would like it to appe
 * [Learned lessons](#learned-lessons)
 * [Awesome lists](#awesome-lists)
 
-
 # Books
 
 ## In English
