@@ -8,8 +8,6 @@
 This page collects resources for anyone considering the use of software testing and formal methods. 
 
 There are many axes along which one can organize such a list, such as the level of expertise of the intended audience (from experts to the public at large) or disciplinary orientation (computer science, mathematics, mathematical logic, etc.). Here I have chosen to classify the material by type of subject matter.
-    
-If you would like add something, just send the text as you would like it to appear to estetus@gmail.com, preferrably already formatted in markdown.
 
 **[Subscribe](https://github.com/ligurio/awesome-software-quality/subscription) to receive notificatons.**
 
@@ -36,7 +34,6 @@ If you would like add something, just send the text as you would like it to appe
 * [Programs and Proofs. Mechanizing Mathematics with Dependent Types.](http://ilyasergey.net/pnp/) - Ilya Sergey @ilyasergey
 * [Measure Software Quality using Application Security](https://github.com/DinisCruz/Book_Software_Quality/tree/master/content) (WIP) - Dinis Cruz
 * [The "A" Word](https://leanpub.com/TheAWord) - Alan Page
-* [Professional Software Development](http://mixmastamyk.bitbucket.org/pro_soft_dev/) (Chapter: "5. Software Quality") - Mike G. Miller
 * [Acceptance Test Engineering Guide, Vol. I - RC1](https://testingguidance.codeplex.com/)
 * [A Software Testing Primer](http://www.betoryuu.com/images/tour/items/file/testingPrimer.pdf) (PDF)
 * [Classic Testing Mistakes](http://www.exampler.com/testing-com/writings/classic/mistakes.pdf) (PDF) - Brian Marick
