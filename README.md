@@ -13,6 +13,7 @@ If you would like add something, just send the text as you would like it to appe
 
 **[Subscribe](https://github.com/ligurio/awesome-software-quality/subscription) to receive notificatons.**
 
+### [The Site](http://ligurio.github.io/awesome-software-quality/)
 
 ## Index
 
